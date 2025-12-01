@@ -25,6 +25,7 @@ Puedes acceder a la versión desplegada en Netlify directamente aquí:
 ### 🖼️ Previsualización del Diseño
 
 Aquí puedes ver cómo luce el portal en acción:
+
 ![Captura de pantalla de la página principal de El Nexo](https://raw.githubusercontent.com/DarioA-Dev/El-nexo/main/img/img-readme/visualiza-main.png)
 
 -----
@@ -56,7 +57,7 @@ Este proyecto fue iniciado por **DarioADev** y actualmente es mantenido por:
 | Usuario GitHub | Rol |
 | :--- | :--- |
 | **DarioADev** | Fundador y Desarrollador Principal |
-| **Dario920** | Colaborador y Testing (Si la cuenta secundaria está activa) |
+| **Dario920** | Colaborador y mi cuenta secundaria |
 
 -----
 
@@ -74,4 +75,4 @@ Está en proceso, el estado actual es:
 
 ¿Tienes ideas, sugerencias o encontraste un *bug*?
 
-Puedes contactarme directamente abriendo un *Issue* en este repositorio o a través de: [dalvarezd7@gmail.com].
+Puedes contactarme directamente abriendo un *Issue* en este repositorio o a través de: dalvarezd7@gmail.com.
