@@ -1,7 +1,7 @@
 # ⚡ Darío Álvarez Dorado | Arquitecto de El Nexo & Técnico SMR
 
 <p align="center">
-  <img src="TU_URL_RAW_DEL_BANNER_AQUI" alt="Banner El Nexo" style="width: 100%; border-radius: 25px; max-height: 180px; object-fit: cover; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+  <img src="https://raw.githubusercontent.com/DarioA-Dev/Preparar-paginas-web/main/imagenes/top-readme.png" alt="Banner El Nexo" style="width: 100%; border-radius: 25px; max-height: 180px; object-fit: cover; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </p>
 
 <div align="center">
@@ -66,9 +66,6 @@ Como estudiante de **SMR (Sistemas Microinformáticos y Redes)**, he desarrollad
 ---
 
 <p align="center">
-  <a href="https://elnexo.es">
-    <img src="TU_URL_RAW_DE_STAFF_PNG_AQUI" width="130px" style="border-radius: 20px; box-shadow: 0 0 15px rgba(0,120,214,0.3);">
-  </a>
   <br>
-  <em>Arquitecto y Desarrollador Jefe en <a href="https://elnexo.es">elnexo.es</a></em>
+  <em>Arquitecto y Desarrollador Jefe de <a href="https://elnexocenter.com/">elnexocenter.com</a></em>
 </p>
