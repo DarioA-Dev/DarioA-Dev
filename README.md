@@ -1,7 +1,7 @@
 # ⚡ Darío Álvarez Dorado | Arquitecto de El Nexo & Técnico SMR
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DarioA-Dev/preparar-paginas-web/main/imagenes/top-readme.png" alt="El Nexo Banner" style="width: 100%; max-height: 250px; border-radius: 20px; object-fit: cover; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
+  <img src="https://raw.githubusercontent.com/DarioA-Dev/preparar-paginas-web/main/imagenes/top-readme.png" alt="El Nexo Banner" style="width: 100%; max-height: 250px; border-radius: 20%; object-fit: cover; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">
 </p>
 
 ## 🎯 Mi Misión: El Nexo
