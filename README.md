@@ -50,10 +50,21 @@ Soy estudiante de **Sistemas Microinformáticos y Redes (SMR)**. Mi enfoque prof
 
 ---
 
-## 📈 Mi Actividad en GitHub
+## 📊 Métricas de Ingeniería
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarioA-Dev&show_icons=true&theme=tokyonight&border_radius=20&hide_border=true" width="48%" style="border-radius: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarioA-Dev&show_icons=true&theme=tokyonight&border_radius=20&hide_border=true&count_private=true" width="48%" style="border-radius: 20px;">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioA-Dev&layout=compact&theme=tokyonight&border_radius=20&hide_border=true" width="48%" style="border-radius: 20px;">
+</p>
+
+---
+
+## 🛠️ Hard Skills | Sistemas & Redes (SMR)
+<p align="left">
+  <img src="https://img.shields.io/badge/Kernel_Optimization-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Network_Admin-228B22?style=for-the-badge&logo=wireshark&logoColor=white" style="border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Hardware_Expert-4D4D4D?style=for-the-badge&logo=cpu&logoColor=white" style="border-radius: 15px;">
+  <img src="https://img.shields.io/badge/Scripting_Automation-5391FE?style=for-the-badge&logo=powershell&logoColor=white" style="border-radius: 15px;">
 </p>
 
 ---
