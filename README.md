@@ -26,7 +26,7 @@ Como estudiante de **SMR (Sistemas Microinformáticos y Redes)**, he desarrollad
     </td>
     <td width="50%" style="border: none; padding: 10px;">
       <div style="background-color: #161b22; padding: 15px; border-radius: 20px; border: 1px solid #30363d; height: 180px;">
-        <h4 Programas & Herramientas</h4>
+        <h4> Programas & Herramientas</h4>
         <p style="font-size: 14px;">Repositorio centralizado de software esencial (IDE's, navegadores, utilidades) listo para despliegue rápido en entornos profesionales.</p>
       </div>
     </td>
@@ -57,6 +57,8 @@ Como estudiante de **SMR (Sistemas Microinformáticos y Redes)**, he desarrollad
 
 ## Stack Tecnológico
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" style="border-radius: 8px;">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" style="border-radius: 8px;">
   <img src="https://img.shields.io/badge/Hardware-Expert-4D4D4D?style=flat-square&logo=cpu&logoColor=white" style="border-radius: 8px;">
   <img src="https://img.shields.io/badge/Network_Admin-228B22?style=flat-square&logo=wireshark&logoColor=white" style="border-radius: 8px;">
   <img src="https://img.shields.io/badge/Windows_Kernel-0078D6?style=flat-square&logo=windows&logoColor=white" style="border-radius: 8px;">
