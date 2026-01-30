@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 El Nexo: Ecosistema IT Centralizado
+## El Nexo: Ecosistema IT Centralizado
 Como estudiante de **SMR (Sistemas Microinformáticos y Redes)**, he desarrollado **El Nexo** no solo como una herramienta de optimización, sino como un centro de recursos técnicos para la gestión integral de sistemas.
 
 ### Los 4 Pilares de El Nexo
