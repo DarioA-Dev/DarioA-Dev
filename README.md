@@ -49,20 +49,3 @@ Soy estudiante de **Sistemas Microinformáticos y Redes (SMR)**. Mi enfoque prof
 </p>
 
 ---
-
-## 📊 Métricas de Ingeniería
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarioA-Dev&show_icons=true&theme=tokyonight&border_radius=20&hide_border=true&count_private=true" width="48%" style="border-radius: 20px;">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioA-Dev&layout=compact&theme=tokyonight&border_radius=20&hide_border=true" width="48%" style="border-radius: 20px;">
-</p>
-
----
-
-<p align="center">
-  <a href="https://elnexo.es">
-    <img src="https://raw.githubusercontent.com/DarioA-Dev/preparar-paginas-web/main/imagenes/El-Nexo-perfil-staff.png" width="130px" style="border-radius: 15px;">
-  </a>
-  <br>
-  <em>Arquitecto Jefe en <a href="https://elnexo.es">elnexo.es</a></em>
-</p>
