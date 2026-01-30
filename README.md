@@ -59,16 +59,6 @@ Soy estudiante de **Sistemas Microinformáticos y Redes (SMR)**. Mi enfoque prof
 
 ---
 
-## 🛠️ Hard Skills | Sistemas & Redes (SMR)
-<p align="left">
-  <img src="https://img.shields.io/badge/Kernel_Optimization-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="border-radius: 15px;">
-  <img src="https://img.shields.io/badge/Network_Admin-228B22?style=for-the-badge&logo=wireshark&logoColor=white" style="border-radius: 15px;">
-  <img src="https://img.shields.io/badge/Hardware_Expert-4D4D4D?style=for-the-badge&logo=cpu&logoColor=white" style="border-radius: 15px;">
-  <img src="https://img.shields.io/badge/Scripting_Automation-5391FE?style=for-the-badge&logo=powershell&logoColor=white" style="border-radius: 15px;">
-</p>
-
----
-
 <p align="center">
   <a href="https://elnexo.es">
     <img src="https://raw.githubusercontent.com/DarioA-Dev/preparar-paginas-web/main/imagenes/El-Nexo-perfil-staff.png" width="130px" style="border-radius: 15px;">
