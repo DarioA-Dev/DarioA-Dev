@@ -107,5 +107,5 @@ App web de seguimiento fitness en desarrollo activo.
 ---
 
 <p align="center">
-  <em>Villanueva de la Serena, Badajoz · <a href="mailto:dalvarezd7@gmail.com">dalvarezd7@gmail.com</a> · <a href="https://elnexocenter.com/">elnexocenter.com</a></em>
+  <em>Extremadura, Badajoz · <a href="mailto:dalvarezd7@gmail.com">dalvarezd7@gmail.com</a> · <a href="https://elnexocenter.com/">elnexocenter.com</a></em>
 </p>
