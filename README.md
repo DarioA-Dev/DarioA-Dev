@@ -100,8 +100,6 @@ App web de seguimiento fitness en desarrollo activo.
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Network_Admin-228B22?style=flat-square&logo=wireshark&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows_Kernel-0078D6?style=flat-square&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white">
   <img src="https://img.shields.io/badge/Hardware-4D4D4D?style=flat-square&logo=cpu&logoColor=white">
 </p>

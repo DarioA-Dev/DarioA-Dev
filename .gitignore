@@ -1,0 +1,6 @@
+# Claude & agentes
+.claude/
+.agents/
+skills-lock.json
+macro-prompt-claude-code.md
+arreglos-rediseños.md
