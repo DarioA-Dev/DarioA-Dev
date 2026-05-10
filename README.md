@@ -18,7 +18,7 @@
 
 Este repositorio contiene mi portfolio personal — una SPA construida a mano sin frameworks, diseñada para captar clientes locales y regionales que buscan presencia digital desde cero o rediseño.
 
-**Demo:** [darioalvarez.dev](https://github.com/DarioA-Dev) *(GitHub Pages)*
+**Demo:** [dario-adev.dev](https://darioa-dev.github.io/)
 
 ### Stack del portfolio
 - HTML5, CSS3, JavaScript Vanilla puro — sin React, sin Vue, sin Bootstrap
